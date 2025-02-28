@@ -1,0 +1,5 @@
+DataEnv
+DataEnv/
+.env
+__pycache__/
+*.pyc
